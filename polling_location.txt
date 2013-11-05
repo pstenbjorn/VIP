@@ -1400,7 +1400,7 @@
 "St. Lukes Lutheran Church","1200 Old Rixeyville Road","","","Culpeper","VA","22701","Fellowship Hall","6:00 AM - 7:00 PM","","81398"
 "RACHEL CARSON MIDDLE SCHOOL","13618 MCLEAREN ROAD","","","HERNDON","VA","20171","","6:00 AM - 7:00 PM","","81399"
 "LEBANON ELEMENTARY SCHOOL","56 GEORGE BEN WHITED DR","","","LEBANON","VA","24266","","6:00 AM - 7:00 PM","","81400"
-"CHINQUAPIN PARK RECREATION CTR","3210 King St","","","Alexandria","VA","223023106","","6:00 AM - 7:00 PM","","81401"
+"First Baptist Church of Alexandria","2932 King St","","","Alexandria","VA","22302","","6:00 AM - 7:00 PM","","81401"
 "FIRE DEPARTMENT BUILDING","4225 Jefferson Park Rd","","","Prince George","VA","238751412","","6:00 AM - 7:00 PM","","81402"
 "NATURAL BRIDGE CHRISTIAN FELLOWSHIP CHURCH","21 GILMORES MILL RD","","","NATURAL BRIDGE STATION ","VA","24579","","6:00 AM - 7:00 PM","","81403"
 "ST JOHNS UNITED METHODIST CH","5312 Backlick Rd","","","Springfield","VA","221513313","","6:00 AM - 7:00 PM","","81404"
