@@ -101,7 +101,7 @@
 "WILLIAM A SPRADLIN","Voter Registration","7572779797","","wspradlin@cityofchesapeake.net","50099"
 "SUSAN J. REDFORD","Voter Registration","8045209277","","redfords@colonialheightsva.gov","50100"
 "BETTY J LEITCH","Voter Registration","5409656380","","govote580@ntelos.net","50101"
-"PEGGY M. PETTY","Voter Registration","4347996560","","pettypm@ci.danville.va.us","50102"
+"PEGGY M. PETTY","Voter Registration","4347996560","","pettypm@danvilleva.gov","50102"
 "LUCILLE T DUNLOW","General Registrar Physical","4346349533","","ldunlow@ci.emporia.va.us","50103"
 "KEVIN  LINEHAN","General Registrar Physical","7033857890","","kevin.Linehan@fairfaxva.gov","50104"
 "DAVID B. BJERKE","General Registrar Physical","7032485085","","dbjerke@fallschurchva.gov","50105"
