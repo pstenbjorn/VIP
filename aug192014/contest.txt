@@ -1,0 +1,5 @@
+"election_id","electoral_district_id","type","partisan","primary_party","electorate_specifications","special","office","filing_closed_date","number_elected","number_voting_for","ballot_id","ballot_placement","id"
+"30000","60001","special","no","","","yes","Member Senate of Virginia","1900-01-01","1","1","200000","7","20000"
+"30000","60002","special","no","","","yes","Member House of Delegates","1900-01-01","1","1","200001","8","20001"
+"30000","60003","special","no","","","yes","Member House of Delegates","1900-01-01","1","1","200002","8","20002"
+"30000","60000","special","no","","","yes","Member Town Council - At Large - Special","1900-01-01","1","1","200003","31","20003"

@@ -1,0 +1,5 @@
+"referendum_id","custom_ballot_id","write_in","image_url","id"
+"","","no","","200000"
+"","","no","","200001"
+"","","no","","200002"
+"","","no","","200003"
