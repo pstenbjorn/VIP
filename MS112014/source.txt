@@ -1,0 +1,2 @@
+"name","vip_id","datetime","description","organization_url","feed_contact_id","tou_url","id"
+"State of Mississippi","","Sep  5 2014 11:30AM","State of Mississippi feed","http://www.sos.ms.gov/Elections-Voting/","","","28001"
