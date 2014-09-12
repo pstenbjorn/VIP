@@ -1,0 +1,2 @@
+"title","subtitle","brief","text","pro_statement","con_statement","passage_threshold","effect_of_abstain","id"
+"Amendment No. 01 House Concurrent Resolution 30 (2012)","Amendment No. 01 House Concurrent Resolution 30 (2012)","","State Of Mississippi\nHouse Concurrent Resolution 30","","","","","88575000114"
