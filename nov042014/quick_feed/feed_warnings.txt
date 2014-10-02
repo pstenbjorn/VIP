@@ -1,0 +1,9 @@
+base_element,type,problem_element,id,code
+election_administration,warning,hours,40018,invalid_hour_range
+election_administration,warning,hours,40026,invalid_hour_range
+election_administration,warning,hours,40032,invalid_hour_range
+election_administration,warning,hours,40044,invalid_hour_range
+election_administration,warning,hours,40060,invalid_hour_range
+election_administration,warning,hours,40089,invalid_hour_range
+election_administration,warning,hours,40126,invalid_hour_range
+candidate,warning,email,10542,invalid_email

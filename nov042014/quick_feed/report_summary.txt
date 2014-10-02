@@ -1,0 +1,49 @@
+Time Processed: 2014-10-02T15:47:01.291322
+
+----------------------
+Source Data
+----------------------
+
+State: VA
+County: 
+
+----------------------
+File Report
+----------------------
+
+Invalid Files: ['referendum.txt']
+Valid Files: ['electoral_district.txt', 'election_administration.txt', 'precinct_split_electoral_district.txt', 'state.txt', 'source.txt', 'ballot_candidate.txt', 'street_segment.txt', 'ballot.txt', 'precinct_polling_location.txt', 'candidate.txt', 'locality.txt', 'election.txt', 'election_official.txt', 'contest.txt', 'precinct.txt', 'polling_location.txt', 'precinct_split.txt']
+
+----------------------
+Element Counts
+----------------------
+
+polling_location: 2455
+precinct_split: 3031
+candidate: 551
+source: 1
+ballot: 258
+locality: 133
+electoral_district: 170
+election_administration: 134
+precinct_polling_location: 2432
+precinct_split_electoral_district: 8084
+state: 1
+street_segment: 220562
+contest: 258
+election_official: 133
+ballot_candidate: 551
+precinct: 2433
+election: 1
+
+
+----------------------
+Reported Issues Count
+----------------------
+
+street_segment_warnings: 16
+errors: 156
+warnings: 8
+duplicates: 52
+street_segment_duplicates: 4
+street_segment_errors: 245

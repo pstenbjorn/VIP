@@ -116,7 +116,7 @@
 "ANN MARIE BAUSCH","Voter Registration","7032578230","","abausch@ci.manassas.va.us","50114"
 "PATRICIA  ANN BRENDEL","Voter Registration","7033358806","","p.brendel@manassasparkva.gov","50115"
 "CYNTHIA I. BARBOUR","Voter Registration","2764035122","","cbarbour@ci.martinsville.va.us","50116"
-"VICKI V. LEWIS","Voter Registration","7579268683","","vlewis@nngov.com","50117"
+"ELIZA B MELVIN","Voter Registration","7579289515","","","50117"
 "ELISA J LONG","General Registrar Physical","7576644353","","vote@norfolk.gov","50118"
 "MARIE  MUIR","Voter Registration","2766791162","","govote720@yahoo.com","50119"
 "DAWN E. WILLIAMS","General Registrar Physical","8047338071","","petersburgelections@comcast.net","50120"
