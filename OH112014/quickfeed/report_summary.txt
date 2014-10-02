@@ -1,0 +1,48 @@
+Time Processed: 2014-10-02T18:33:55.719678
+
+----------------------
+Source Data
+----------------------
+
+State: OH
+County: 
+
+----------------------
+File Report
+----------------------
+
+Invalid Files: ['election_administration.txt', 'election_official.txt']
+Valid Files: ['electoral_district.txt', 'precinct_split_electoral_district.txt', 'state.txt', 'source.txt', 'ballot_candidate.txt', 'street_segment.txt', 'ballot.txt', 'precinct_polling_location.txt', 'candidate.txt', 'locality.txt', 'election.txt', 'contest.txt', 'referendum.txt', 'precinct.txt', 'polling_location.txt', 'precinct_split.txt']
+
+----------------------
+Element Counts
+----------------------
+
+polling_location: 9158
+precinct_split: 12604
+candidate: 13
+source: 1
+ballot: 5
+locality: 88
+electoral_district: 3083
+precinct_polling_location: 9158
+referendum: 0
+precinct_split_electoral_district: 114759
+state: 1
+street_segment: 254311
+contest: 5
+precinct: 9158
+ballot_candidate: 13
+election: 1
+
+
+----------------------
+Reported Issues Count
+----------------------
+
+street_segment_warnings: 19153
+errors: 290
+warnings: 0
+duplicates: 0
+street_segment_duplicates: 664
+street_segment_errors: 7117
