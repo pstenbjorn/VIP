@@ -1,2 +1,2 @@
 "name","vip_id","datetime","description","organization_url","feed_contact_id","tou_url","id"
-"State of Ohio","39","2014-09-26","Automated Feed for the State of Ohio","http://www.sos.state.oh.us/elections/Voters.aspx","","","39"
+"State of Ohio","39","2014-10-03T08:56:56.777","Automated Feed for the State of Ohio","http://www.sos.state.oh.us/elections/Voters.aspx","","","39"
