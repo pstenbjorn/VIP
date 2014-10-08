@@ -1,0 +1,2 @@
+"name","vip_id","datetime","description","organization_url","feed_contact_id","tou_url","id"
+"State of West Virginia","54","2014-10-08T18:39:30.277","Automated WV feed","http://www.sos.wv.gov/elections/","","","5401"
