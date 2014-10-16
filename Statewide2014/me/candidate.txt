@@ -1,0 +1,6 @@
+"name","party","candidate_url","biography","phone","photo_url","filed_mailing_address_location_name","filed_mailing_address_state","filed_mailing_address_line1","filed_mailing_address_line3","filed_mailing_address_line2","filed_mailing_address_zip","filed_mailing_address_city","email","sort_order","id"
+"Eliot R. Cutler","Independent","","","","","","","","","","","","","1","2360000"
+"Michael H. Michaud","Democratic","","","","","","","","","","","","","3","2360001"
+"Paul R. LePage","Republican","","","","","","","","","","","","","2","2360002"
+"Shenna Bellows","Democratic","","","","","","","","","","","","","1","2360003"
+"Susan M. Collins","Republican","","","","","","","","","","","","","2","2360004"

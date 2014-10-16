@@ -1,0 +1,2 @@
+"election_id","electoral_district_id","type","partisan","primary_party","electorate_specifications","special","office","filing_closed_date","number_elected","number_voting_for","ballot_id","ballot_placement","id"
+"42110414","4280000","state","yes","","","","GOVERNOR AND LIEUTENANT GOVERNOR","","1","1","42700001","1","4270000"

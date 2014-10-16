@@ -1,0 +1,6 @@
+"name","party","candidate_url","biography","phone","photo_url","filed_mailing_address_location_name","filed_mailing_address_state","filed_mailing_address_line1","filed_mailing_address_line3","filed_mailing_address_line2","filed_mailing_address_zip","filed_mailing_address_city","email","sort_order","id"
+"LAURA DENVIR STITH","none","","","","","","","","","","","","","1","2960000"
+"PAUL CAMPBELL WILSON ","none","","","","","","","","","","","","","2","2960001"
+"Rodney Farthing","CONSTITUTION","","","","","","","","","","","","","3","2960002"
+"Sean O`Toole","LIBERTARIAN","","","","","","","","","","","","","2","2960003"
+"Tom Schweich","REPUBLICAN","","","","","","","","","","","","","1","2960004"

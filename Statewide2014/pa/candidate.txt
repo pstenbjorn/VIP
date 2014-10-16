@@ -1,0 +1,3 @@
+"name","party","candidate_url","biography","phone","photo_url","filed_mailing_address_location_name","filed_mailing_address_state","filed_mailing_address_line1","filed_mailing_address_line3","filed_mailing_address_line2","filed_mailing_address_zip","filed_mailing_address_city","email","sort_order","id"
+"TOM CORBETT GOVERNOR JIM CAWLEY LT. GOVERNOR","REPUBLICAN","","","","","","","","","","","","","1","4260000"
+"TOM WOLF GOVERNOR MIKE STACK LT. GOVERNOR","DEMOCRATIC","","","","","","","","","","","","","2","4260001"

@@ -1,0 +1,3 @@
+"referendum_id","custom_ballot_id","write_in","image_url","id"
+"","","no","","33700001"
+"","","no","","33700011"

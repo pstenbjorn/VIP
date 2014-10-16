@@ -1,0 +1,7 @@
+"election_id","electoral_district_id","type","partisan","primary_party","electorate_specifications","special","office","filing_closed_date","number_elected","number_voting_for","ballot_id","ballot_placement","id"
+"36110414","3680000","referendum","no","","","",""PROPOSAL NUMBER ONE, AN AMENDMENT Revising State's Redistricting Procedure"","","1","1","36700001","20","3670000"
+"36110414","3680000","referendum","no","","","",""PROPOSAL NUMBER THREE, A PROPOSITION SMART SCHOOLS BOND ACT OF 2014"","","1","1","36700011","22","3670001"
+"36110414","3680000","referendum","no","","","",""PROPOSAL NUMBER TWO, AN AMENDMENT Permitting Electronic Distribution of State Legislative Bills"","","1","1","36700021","21","3670002"
+"36110414","3680000","state","yes","","","","ATTORNEY GENERAL","","1","1","36700031","3","3670003"
+"36110414","3680000","state","yes","","","","COMPTROLLER","","1","1","36700041","2","3670004"
+"36110414","3680000","state","yes","","","","GOVERNOR AND LIEUTENANT GOVERNOR","","1","1","36700051","1","3670005"
