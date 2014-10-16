@@ -1,0 +1,2 @@
+"election_id","electoral_district_id","type","partisan","primary_party","electorate_specifications","special","office","filing_closed_date","number_elected","number_voting_for","ballot_id","ballot_placement","id"
+"21110414","2180000","federal","yes","","","","UNITED STATES SENATOR","","1","1","21700001","1","2170000"
