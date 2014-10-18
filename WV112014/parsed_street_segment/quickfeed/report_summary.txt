@@ -1,0 +1,50 @@
+Time Processed: 2014-10-18T12:32:22.394698
+
+----------------------
+Source Data
+----------------------
+
+State: WV
+County: 
+
+----------------------
+File Report
+----------------------
+
+Invalid Files: []
+Valid Files: ['electoral_district.txt', 'election_administration.txt', 'precinct_split_electoral_district.txt', 'state.txt', 'source.txt', 'ballot_candidate.txt', 'street_segment.txt', 'ballot.txt', 'precinct_polling_location.txt', 'candidate.txt', 'locality.txt', 'election.txt', 'election_official.txt', 'contest.txt', 'referendum.txt', 'precinct.txt', 'polling_location.txt', 'precinct_split.txt']
+
+----------------------
+Element Counts
+----------------------
+
+polling_location: 1816
+precinct_split: 1278
+candidate: 342
+source: 1
+ballot: 150
+locality: 55
+electoral_district: 143
+election_administration: 55
+precinct_polling_location: 1816
+precinct_split_electoral_district: 9080
+state: 1
+street_segment: 655963
+contest: 150
+election_official: 55
+referendum: 0
+ballot_candidate: 150
+precinct: 1278
+election: 1
+
+
+----------------------
+Reported Issues Count
+----------------------
+
+street_segment_warnings: 0
+errors: 91517
+warnings: 0
+duplicates: 0
+street_segment_duplicates: 16566
+street_segment_errors: 31178

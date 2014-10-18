@@ -1,4 +1,4 @@
-Time Processed: 2014-10-08T19:16:39.452331
+Time Processed: 2014-10-18T12:26:38.743165
 
 ----------------------
 Source Data
@@ -18,7 +18,7 @@ Valid Files: ['electoral_district.txt', 'election_administration.txt', 'precinct
 Element Counts
 ----------------------
 
-polling_location: 1278
+polling_location: 1816
 precinct_split: 1278
 candidate: 342
 source: 1
@@ -26,10 +26,10 @@ ballot: 150
 locality: 55
 electoral_district: 143
 election_administration: 55
-precinct_polling_location: 1278
+precinct_polling_location: 1816
 precinct_split_electoral_district: 9080
 state: 1
-street_segment: 509125
+street_segment: 714697
 contest: 150
 election_official: 55
 referendum: 0
@@ -43,8 +43,8 @@ Reported Issues Count
 ----------------------
 
 street_segment_warnings: 0
-errors: 174755
+errors: 253784
 warnings: 0
 duplicates: 0
-street_segment_duplicates: 13820
-street_segment_errors: 6960
+street_segment_duplicates: 268
+street_segment_errors: 11400
