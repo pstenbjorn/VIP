@@ -1,0 +1,50 @@
+Time Processed: 2014-10-18T10:33:22.003213
+
+----------------------
+Source Data
+----------------------
+
+State: KS
+County: 
+
+----------------------
+File Report
+----------------------
+
+Invalid Files: []
+Valid Files: ['precinct_split_polling_location.txt', 'election_administration.txt', 'precinct_split_electoral_district.txt', 'state.txt', 'source.txt', 'electoral_district.txt', 'street_segment.txt', 'ballot_candidate.txt', 'ballot.txt', 'polling_location.txt', 'candidate.txt', 'locality.txt', 'election.txt', 'election_official.txt', 'contest.txt', 'referendum.txt', 'precinct.txt', 'precinct_split.txt']
+
+----------------------
+Element Counts
+----------------------
+
+polling_location: 1219
+precinct_split: 6861
+candidate: 24
+source: 1
+precinct_split_polling_location: 5884
+ballot: 9
+locality: 105
+electoral_district: 1
+election_administration: 106
+referendum: 1
+precinct_split_electoral_district: 6853
+state: 1
+street_segment: 137484
+contest: 9
+election_official: 106
+ballot_candidate: 24
+precinct: 3974
+election: 1
+
+
+----------------------
+Reported Issues Count
+----------------------
+
+street_segment_warnings: 25455
+errors: 506
+warnings: 1
+duplicates: 0
+street_segment_duplicates: 104
+street_segment_errors: 55

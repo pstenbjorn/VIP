@@ -1,2 +1,2 @@
-"name","election_administration_id","id"
-"State of Kansas","40020","20"
+name,election_administration_id,id
+State of Kansas,40020,20
