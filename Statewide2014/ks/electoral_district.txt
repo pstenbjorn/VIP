@@ -1,2 +1,2 @@
 "name","type","number","id"
-"KS statewide","","","2080000"
+"KS statewide","statewide","","2080000"
