@@ -1,4 +1,4 @@
-Time Processed: 2014-10-20T15:21:50.153243
+Time Processed: 2014-10-20T18:38:05.887026
 
 ----------------------
 Source Data
@@ -18,19 +18,19 @@ Valid Files: ['precinct_split_polling_location.txt', 'election_administration.tx
 Element Counts
 ----------------------
 
-polling_location: 1219
+polling_location: 1392
 precinct_split: 6861
 candidate: 24
 source: 1
-precinct_split_polling_location: 5884
+precinct_split_polling_location: 6631
 ballot: 9
 locality: 105
-electoral_district: 1
+electoral_district: 6982
 election_administration: 106
 referendum: 1
-precinct_split_electoral_district: 6853
+precinct_split_electoral_district: 151437
 state: 1
-street_segment: 137484
+street_segment: 137872
 contest: 9
 election_official: 106
 ballot_candidate: 24
@@ -42,9 +42,9 @@ election: 1
 Reported Issues Count
 ----------------------
 
-street_segment_warnings: 25455
-errors: 506
+street_segment_warnings: 25466
+errors: 1126
 warnings: 1
-duplicates: 0
-street_segment_duplicates: 104
-street_segment_errors: 55
+duplicates: 11828
+street_segment_duplicates: 110
+street_segment_errors: 56

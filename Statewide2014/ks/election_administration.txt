@@ -1,107 +1,107 @@
 name,eo_id,ovc_id,physical_address_location_name,physical_address_line1,physical_address_line2,physical_address_line3,physical_address_city,physical_address_state,physical_address_zip,mailing_address_location_name,mailing_address_line1,mailing_address_line2,mailing_address_line3,mailing_address_city,mailing_address_state,mailing_address_zip,elections_url,registration_url,am_i_registered_url,absentee_url,where_do_i_vote_url,what_is_on_my_ballot_url,rules_url,voter_services,hours,id
-Allen,51071,,,1 N Washington,,,Iola,KS,66749,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41071
-Anderson,51057,,,100 E 4th,,,Garnett,KS,66032,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41057
-Ford,51089,,,100 Gunsmoke,,,Dodge City,KS,67801,,,,,,,,www.fordcounty.net,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,9:00AM-5:00PM,41089
-Rice,51065,,,101 W Commercial,,,Lyons,KS,67554,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41065
-Grant,51054,,,108 S Glenn,,,Ulysses,KS,67880,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,9:00AM-5:00PM,41054
-Riley,51098,,,110 Courthouse Plaza,,,Manhattan,KS,66502,,,,,,,,www.rileycountyks.gov,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41098
-Douglas,510101,,,1100 Massachusetts St,,,Lawrence,KS,66044,,,,,,,,www.douglascountyelections.com,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,410101
-Rooks,51039,,,115 N Walnut,,,Stockton,KS,67669,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41039
-McPherson,51088,,,117 N. Maple,,,McPherson,KS,67460,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41088
-Barber,51036,,,120 E Washington,,,Medicine Lodge,KS,67104,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41036
-Marshall,51068,,,1201 Broadway,,,Marysville,KS,66508,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41068
-Kingman,51058,,,130 N Spruce,,,Kingman,KS,67068,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41058
-Republic,51037,,,1815 M. Street,,,Belleville,KS,66935,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41037
-Stevens,51038,,,200 E 6th,,,Hugoton,KS,67951,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,9:00AM-5:00PM,41038
-Geary,51084,,,200 E. 8th Street,,,Junction City,KS,66441,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41084
-Marion,51070,,Marion County Courthouse,"200 South Third, Suite 104",,,Marion,KS,66861,,,,,,,,www.marioncoks.net,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41070
-Harper,51046,,,201 N Jennings,,,Anthony,KS,67003,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41046
-Miami,51087,,,201 S. Pearl,Suite 102,,Paola,KS,66071,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:30PM,41087
-Ness,51019,,,202 W Sycamore,,,Ness City,KS,67560,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41019
-Butler,51097,,Courthouse,205 W Central,,,El Dorado,KS,67042,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41097
-Reno,51099,,,206 West 1st,,,Hutchinson,KS,67501,,,,,,,,www.renogov.org,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41099
-Stafford,51032,,Courthouse,209 N Broadway,,,St. John,KS,67576,,,,,,,,www.staffordcounty.org,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41032
-Ellsworth,51048,,,210 N Kansas,,,Ellsworth,KS,67439,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41048
-Bourbon,51072,,,210 S National,,,Ft Scott,KS,66701,,,,,,,,http://www.bourboncountyks.org,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-4:30PM,41072
-Johnson,510105,,,2101 E Kansas City Rd,,,Olathe,KS,66061,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,410105
-Kiowa,51018,,,211 East Florida Avenue,,,Greensburg,KS,67054,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:30AM-12:00PM, 1:00PM-5:00PM",41018
-Washington,51044,,,214 C St,,,Washington,KS,66968,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41044
-Chautauqua,51030,,,215 N Chautauqua,,,Sedan,KS,67361,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:00,41030
-Lincoln,51026,,,216 E Lincoln Ave,,,Lincoln,KS,67455,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41026
-Trego,51016,,,216 Main,,,WaKeeney,KS,67672,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41016
-Smith,51029,,,218 S Grant,,,Smith Center,KS,66967,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41029
-Thomas,51055,,,300 N Court,,,Colby,KS,67701,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41055
-Saline,51096,,,"300 W Ash, Ste. #215",,,Salina,KS,67401,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41096
-Leavenworth,510100,,,300 Walnut,,,Leavenworth,KS,66048,,,,,,,,www.leavenworthcounty.org,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,410100
-Phillips,51040,,,301 State Street,,,Phillipsburg,KS,67661,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41040
-Scott,51035,,,303 Court,,,Scott City,KS,67871,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41035
-Jewell,51025,,,307 N Commercial,,,Mankato,KS,66956,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:30AM-12:00PM, 1:00PM-4:30PM",41025
-Ottawa,51045,,,307 N Concord Suite 130,,,Minneapolis,KS,67467,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41045
-Cowley,51093,,,311 E 9th,,,Winfield,KS,67156,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41093
-Greenwood,51053,,,311 N Main,,,Eureka,KS,67045,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41053
-Edwards,51021,,,312 Massachusetts,,,Kinsley,KS,67547,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41021
-Franklin,51083,,,315 S Main,,,Ottawa,KS,66067,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41083
-Jackson,51069,,,400 New York,,,Holton,KS,66436,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:30PM,41069
-Graham,51011,,,410 N Pomeroy,,,Hill City,KS,67642,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41011
-Atchison,51074,,,423 N 5th,,,Atchison,KS,66002,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41074
-Lyon,51092,,,430 Commercial,,,Emporia,KS,66801,,,,,,,,lyoncounty.org,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41092
-Hodgeman,5105,,,500 Main,,,Jetmore,KS,67854,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"9:00AM-12:00PM, 1:00PM-5:00PM",4105
-Sumner,51082,,,501 N Washington,,,Wellington,KS,67152,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41082
-Morris,51042,,,501 West Main,,,Council Grove,KS,66846,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41042
-Sedgwick,510104,,,510 N Main,,,Wichita,KS,67203,,,,,,,,www.sedgwickcounty.org/elections,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,410104
-Brown,51066,,,601 Oregon St,,,Hiawatha,KS,66434,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41066
-Rawlins,51012,,,607 Main,,,Atwood,KS,67730,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,9:00AM-5:00PM,41012
-Wilson,51064,,,615 Madison,,,Fredonia,KS,66736,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41064
-Logan,51013,,,710 W 2nd,,,Oakley,KS,67748,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00 - 5:00,41013
-Pawnee,51051,,,715 Broadway,,,Larned,KS,67550,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41051
-Cloud,51063,,,811 Washington,,,Concordia,KS,66901,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:30PM,41063
-Sherman,51047,,,"813 Broadway, Rm 102",,,Goodland,KS,67735,,,,,,,,SH_County_Clerk@wan.kdor.state.ks.us,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM (Mountain)",41047
-Wyandotte,510102,,,850 State Avenue,,,Kansas City,KS,66101,,,,,,,,www.wycokck.org/election,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,410102
-Shawnee,510103,,,911 SW 37th,,,Topeka,KS,66611,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,410103
-Comanche,5103,,,201 S New York,,,Coldwater,KS,67029,,Box 776,,,Coldwater,KS,67029,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"9:00AM-12:00PM, 1:00PM-5:00PM",4103
-Finney,51095,,Finney Co. Admin. Center,311 N. 9th St.,,,Garden City,KS,67846,,P.O. Box M,,,Garden City,KS,67846,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41095
-Greeley,5101,,,,,,Tribune,KS,67879,,P.O. Box 277,,,Tribune,KS,67879,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"9:00AM-12:00PM, 1:00PM-5:00PM (Mountain)",4101
-Linn,51062,,,,,,Mound City,KS,66056,,P.O. Box 350,,,Mound City,KS,66056,www.linncountyks.com,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:00,41062
-Sheridan,5109,,,925 9th Street,,,Hoxie,KS,67740,,P.O. Box 899,,,Hoxie,KS,67740,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",4109
-Morton,51023,,,1025 Morton St,,,Elkhart,KS,67950,,PO Box 1116,,,Elkhart,KS,67950,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,9:00AM-5:00PM,41023
-Russell,51052,,,4th & Main,,,Russell,KS,67665,,PO Box 113,,,Russell,KS,67665,www.russell.kansasgov.com,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41052
-Hamilton,51010,,,219 N Main,,,Syracuse,KS,67878,,PO Box 1167,,,Syracuse,KS,67878,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-4:30PM (Mountain),41010
-Gove,51014,,,,,,Gove,KS,67736,,PO Box 128,,,Gove,KS,67736,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41014
-Neosho,51073,,,100 S Main,,,Erie,KS,66733,,PO Box 138,,,Erie,KS,66733,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:30PM,41073
-Cherokee,51079,,,100 W Maple,,,Columbus,KS,66725,,PO Box 14,,,Columbus,KS,66725,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,9:00AM-5:00PM,41079
-Osborne,51028,,,423 W Main,,,Osborne,KS,67473,,PO Box 160,,,Osborne,KS,67473,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41028
-Nemaha,51067,,,607 Nemaha,,,Seneca,KS,66538,,PO Box 186,,,Seneca,KS,66538,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:30PM,41067
-Pottawatomie,51076,,,207 N 1st,,,Westmoreland,KS,66549,,PO Box 187,,,Westmoreland,KS,66549,www.pottcounty.org,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-4:30PM,41076
-Mitchell,51049,,,111 S Hersey,,,Beloit,KS,67420,,PO Box 190,,,Beloit,KS,67420,mcks.org,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41049
-Stanton,5107,,,201 N Main,,,Johnson,KS,67855,,PO Box 190,,,Johnson,KS,67855,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"9:00AM-12:00PM, 1:00PM-5:00PM",4107
-Rush,51024,,,715 Elm,,,LaCrosse,KS,67548,,PO Box 220,,,LaCrosse,KS,67548,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:30AM-12:00PM, 1:00PM-5:00PM",41024
-Osage,51075,,,717 Topeka Ave,,,Lyndon,KS,66451,,PO Box 226,,,Lyndon,KS,66451,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41075
-Dickinson,51078,,,"109 E 1st, Ste. 207",,,Abilene,KS,67410,,PO Box 248,,,Abilene,KS,67410,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41078
-Crawford,51094,,,111 E Forest,,,Girard,KS,66743,,PO Box 249,,,Girard,KS,66743,www.crawfordcountykansas.org,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-4:30PM,41094
-Doniphan,51056,,,,,,Troy,KS,66087,,PO Box 278,,,Troy,KS,66087,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:30AM-5:00PM,41056
-Meade,51034,,,,,,Meade,KS,67864,,PO Box 278,,,Meade,KS,67864,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41034
-Wabaunsee,51050,,,215 Kansas,,,Alma,KS,66401,,PO Box 278,,,Alma,KS,66401,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:30PM,41050
-Decatur,51022,,,,,,Oberlin,KS,67749,,PO Box 28,,,Oberlin,KS,67749,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41022
-Jefferson,51077,,,,,,Oskaloosa,KS,66066,,PO Box 321,,,Oskaloosa,KS,66066,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:30PM,41077
-Labette,51080,,,501 Merchant,,,Oswego,KS,67356,,PO Box 387,,,Oswego,KS,67356,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41080
-Montgomery,51091,,,217 E Myrtle,,,Independence,KS,67301,,PO Box 446,,,Independence,KS,67301,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:30AM-12:00PM, 1:00PM-5:00PM",41091
-Gray,51043,,,,,,Cimarron,KS,67835,,PO Box 487,,,Cimarron,KS,67835,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41043
-Haskell,51031,,,300 Inman St,,,Sublette,KS,67877,,PO Box 518,,,Sublette,KS,67877,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,9:00AM-5:00PM,41031
-Chase,51017,,,Courthouse Square,,,Cottonwood Falls,KS,66845,,PO Box 529,,,Cottonwood Falls,KS,66845,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41017
-Elk,51020,,,127 N Pine,,,Howard,KS,67349,,PO Box 606,,,Howard,KS,67349,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-4:30PM,41020
-Harvey,51090,,,8th & Main,,,Newton,KS,67114,,PO Box 687,,,Newton,KS,67114,www.HVcoKSvote.com,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41090
-Norton,51041,,,105 S Kansas,,,Norton,KS,67654,,PO Box 70,,,Norton,KS,67654,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41041
-Wallace,5102,,,,,,Sharon Springs,KS,67758,,PO Box 70,,,Sharon Springs,KS,67758,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM (Mountain)",4102
-Ellis,51085,,,,,,Hays,KS,67601,,PO Box 720,,,Hays,KS,67601,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41085
-Lane,5104,,,144 S Lane,,,Dighton,KS,67839,,PO Box 788,,,Dighton,KS,67839,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,4104
-Kearny,51033,,,304 N Main,,,Lakin,KS,67860,,PO Box 86,,,Lakin,KS,67860,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41033
-Pratt,51061,,,300 S Ninnescah,,,Pratt,KS,67124,,PO Box 885,,,Pratt,KS,67124,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41061
-Clark,5106,,,913 Highland,,,Ashland,KS,67831,,PO Box 886,,,Ashland,KS,67831,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,4106
-Clay,51059,,,712 5th Street,,,Clay Center,KS,67432,,PO Box 98,,,Clay Center,KS,67432,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41059
-Cheyenne,51015,,,212 E Washington,,,St Francis,KS,67756,,PO Box 985,,,St Francis,KS,67756,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41015
-Wichita,5108,,,206 S Fourth St,,,Leoti,KS,67861,,PO Drawer 968,,,Leoti,KS,67861,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",4108
-Woodson,51027,,,105 W Rutledge,Room 103,,Yates Center,KS,66783,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,"8:00AM-12:00PM, 1:00PM-5:00PM",41027
-Barton,51086,,,1400 Main Street,Room 202,,Great Bend,KS,67530,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41086
-Coffey,51060,,,110 S 6th,Room 202,,Burlington,KS,66839,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,8:00AM-5:00PM,41060
-Seward,51081,,,515 N Washington,Ste 100,,Liberal,KS,67901,,,,,,,,www.sewardcountyks.org,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,9:00AM-5:00PM,41081
-Kansas Secretary of State,50020,,"Memorial Hall, 1st Floor",120 SW 10th Avenue,,,Topeka,KS,66612,,,,,,,,,,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,,,,,40020
+Allen,51071,,,,,,,,,,,,,,,, ,,,,,,,,,41071
+Anderson,51057,,,,,,,,,,,,,,,, ,,,,,,,,,41057
+Atchison,51074,,,,,,,,,,,,,,,, ,,,,,,,,,41074
+Barber,51036,,,,,,,,,,,,,,,, ,,,,,,,,,41036
+Barton,51086,,,,,,,,,,,,,,,, ,,,,,,,,,41086
+Bourbon,51072,,,,,,,,,,,,,,,, http://www.bourboncountyks.org,,,,,,,,,41072
+Brown,51066,,,,,,,,,,,,,,,, ,,,,,,,,,41066
+Butler,51097,,,,,,,,,,,,,,,, ,,,,,,,,,41097
+Chase,51017,,,,,,,,,,,,,,,, ,,,,,,,,,41017
+Chautauqua,51030,,,,,,,,,,,,,,,, ,,,,,,,,,41030
+Cherokee,51079,,,,,,,,,,,,,,,, ,,,,,,,,,41079
+Cheyenne,51015,,,,,,,,,,,,,,,, ,,,,,,,,,41015
+Clark,5106,,,,,,,,,,,,,,,, ,,,,,,,,,4106
+Clay,51059,,,,,,,,,,,,,,,, ,,,,,,,,,41059
+Cloud,51063,,,,,,,,,,,,,,,, ,,,,,,,,,41063
+Coffey,51060,,,,,,,,,,,,,,,, ,,,,,,,,,41060
+Comanche,5103,,,,,,,,,,,,,,,, ,,,,,,,,,4103
+Cowley,51093,,,,,,,,,,,,,,,, ,,,,,,,,,41093
+Crawford,51094,,,,,,,,,,,,,,,,www.crawfordcountykansas.org,,,,,,,,,41094
+Decatur,51022,,,,,,,,,,,,,,,, ,,,,,,,,,41022
+Dickinson,51078,,,,,,,,,,,,,,,, ,,,,,,,,,41078
+Doniphan,51056,,,,,,,,,,,,,,,, ,,,,,,,,,41056
+Douglas,510101,,,,,,,,,,,,,,,,www.douglascountyelections.com ,,,,,,,,,410101
+Edwards,51021,,,,,,,,,,,,,,,, ,,,,,,,,,41021
+Elk,51020,,,,,,,,,,,,,,,, ,,,,,,,,,41020
+Ellis,51085,,,,,,,,,,,,,,,, ,,,,,,,,,41085
+Ellsworth,51048,,,,,,,,,,,,,,,, ,,,,,,,,,41048
+Finney,51095,,,,,,,,,,,,,,,, ,,,,,,,,,41095
+Ford,51089,,,,,,,,,,,,,,,,www.fordcounty.net,,,,,,,,,41089
+Franklin,51083,,,,,,,,,,,,,,,, ,,,,,,,,,41083
+Geary,51084,,,,,,,,,,,,,,,, ,,,,,,,,,41084
+Gove,51014,,,,,,,,,,,,,,,, ,,,,,,,,,41014
+Graham,51011,,,,,,,,,,,,,,,, ,,,,,,,,,41011
+Grant,51054,,,,,,,,,,,,,,,, ,,,,,,,,,41054
+Gray,51043,,,,,,,,,,,,,,,, ,,,,,,,,,41043
+Greeley,5101,,,,,,,,,,,,,,,, ,,,,,,,,,4101
+Greenwood,51053,,,,,,,,,,,,,,,, ,,,,,,,,,41053
+Hamilton,51010,,,,,,,,,,,,,,,, ,,,,,,,,,41010
+Harper,51046,,,,,,,,,,,,,,,, ,,,,,,,,,41046
+Harvey,51090,,,,,,,,,,,,,,,, www.HVcoKSvote.com,,,,,,,,,41090
+Haskell,51031,,,,,,,,,,,,,,,, ,,,,,,,,,41031
+Hodgeman,5105,,,,,,,,,,,,,,,, ,,,,,,,,,4105
+Jackson,51069,,,,,,,,,,,,,,,, ,,,,,,,,,41069
+Jefferson,51077,,,,,,,,,,,,,,,, ,,,,,,,,,41077
+Jewell,51025,,,,,,,,,,,,,,,, ,,,,,,,,,41025
+Johnson,510105,,,,,,,,,,,,,,,, ,,,,,,,,,410105
+Kansas,50020,,,,,,,,,,,,,,,, ,,,,,,,,,40020
+Kearny,51033,,,,,,,,,,,,,,,, ,,,,,,,,,41033
+Kingman,51058,,,,,,,,,,,,,,,, ,,,,,,,,,41058
+Kiowa,51018,,,,,,,,,,,,,,,, ,,,,,,,,,41018
+Labette,51080,,,,,,,,,,,,,,,, ,,,,,,,,,41080
+Lane,5104,,,,,,,,,,,,,,,, ,,,,,,,,,4104
+Leavenworth,510100,,,,,,,,,,,,,,,,www.leavenworthcounty.org ,,,,,,,,,410100
+Lincoln,51026,,,,,,,,,,,,,,,, ,,,,,,,,,41026
+Linn,51062,,,,,,,,,,,,,,,,www.linncountyks.com ,,,,,,,,,41062
+Logan,51013,,,,,,,,,,,,,,,, ,,,,,,,,,41013
+Lyon,51092,,,,,,,,,,,,,,,, lyoncounty.org,,,,,,,,,41092
+Marion,51070,,,,,,,,,,,,,,,,www.marioncoks.net ,,,,,,,,,41070
+Marshall,51068,,,,,,,,,,,,,,,, ,,,,,,,,,41068
+McPherson,51088,,,,,,,,,,,,,,,, ,,,,,,,,,41088
+Meade,51034,,,,,,,,,,,,,,,, ,,,,,,,,,41034
+Miami,51087,,,,,,,,,,,,,,,, ,,,,,,,,,41087
+Mitchell,51049,,,,,,,,,,,,,,,,mcks.org ,,,,,,,,,41049
+Montgomery,51091,,,,,,,,,,,,,,,, ,,,,,,,,,41091
+Morris,51042,,,,,,,,,,,,,,,, ,,,,,,,,,41042
+Morton,51023,,,,,,,,,,,,,,,, ,,,,,,,,,41023
+Nemaha,51067,,,,,,,,,,,,,,,, ,,,,,,,,,41067
+Neosho,51073,,,,,,,,,,,,,,,, ,,,,,,,,,41073
+Ness,51019,,,,,,,,,,,,,,,, ,,,,,,,,,41019
+Norton,51041,,,,,,,,,,,,,,,, ,,,,,,,,,41041
+Osage,51075,,,,,,,,,,,,,,,, ,,,,,,,,,41075
+Osborne,51028,,,,,,,,,,,,,,,, ,,,,,,,,,41028
+Ottawa,51045,,,,,,,,,,,,,,,, ,,,,,,,,,41045
+Pawnee,51051,,,,,,,,,,,,,,,, ,,,,,,,,,41051
+Phillips,51040,,,,,,,,,,,,,,,, ,,,,,,,,,41040
+Pottawatomie,51076,,,,,,,,,,,,,,,,www.pottcounty.org ,,,,,,,,,41076
+Pratt,51061,,,,,,,,,,,,,,,, ,,,,,,,,,41061
+Rawlins,51012,,,,,,,,,,,,,,,, ,,,,,,,,,41012
+Reno,51099,,,,,,,,,,,,,,,,www.renogov.org ,,,,,,,,,41099
+Republic,51037,,,,,,,,,,,,,,,, ,,,,,,,,,41037
+Rice,51065,,,,,,,,,,,,,,,, ,,,,,,,,,41065
+Riley,51098,,,,,,,,,,,,,,,,www.rileycountyks.gov ,,,,,,,,,41098
+Rooks,51039,,,,,,,,,,,,,,,, ,,,,,,,,,41039
+Rush,51024,,,,,,,,,,,,,,,, ,,,,,,,,,41024
+Russell,51052,,,,,,,,,,,,,,,, www.russell.kansasgov.com,,,,,,,,,41052
+Saline,51096,,,,,,,,,,,,,,,, ,,,,,,,,,41096
+Scott,51035,,,,,,,,,,,,,,,, ,,,,,,,,,41035
+Sedgwick,510104,,,,,,,,,,,,,,,,www.sedgwickcounty.org/elections ,,,,,,,,,410104
+Seward,51081,,,,,,,,,,,,,,,,www.sewardcountyks.org ,,,,,,,,,41081
+Shawnee,510103,,,,,,,,,,,,,,,, ,,,,,,,,,410103
+Sheridan,5109,,,,,,,,,,,,,,,, ,,,,,,,,,4109
+Sherman,51047,,,,,,,,,,,,,,,,SH_County_Clerk@wan.kdor.state.ks.us ,,,,,,,,,41047
+Smith,51029,,,,,,,,,,,,,,,, ,,,,,,,,,41029
+Stafford,51032,,,,,,,,,,,,,,,, www.staffordcounty.org,,,,,,,,,41032
+Stanton,5107,,,,,,,,,,,,,,,, ,,,,,,,,,4107
+Stevens,51038,,,,,,,,,,,,,,,, ,,,,,,,,,41038
+Sumner,51082,,,,,,,,,,,,,,,, ,,,,,,,,,41082
+Thomas,51055,,,,,,,,,,,,,,,, ,,,,,,,,,41055
+Trego,51016,,,,,,,,,,,,,,,, ,,,,,,,,,41016
+Wabaunsee,51050,,,,,,,,,,,,,,,, ,,,,,,,,,41050
+Wallace,5102,,,,,,,,,,,,,,,, ,,,,,,,,,4102
+Washington,51044,,,,,,,,,,,,,,,, ,,,,,,,,,41044
+Wichita,5108,,,,,,,,,,,,,,,, ,,,,,,,,,4108
+Wilson,51064,,,,,,,,,,,,,,,, ,,,,,,,,,41064
+Woodson,51027,,,,,,,,,,,,,,,, ,,,,,,,,,41027
+Wyandotte,510102,,,,,,,,,,,,,,,,www.wycokck.org/election,,,,,,,,,410102
