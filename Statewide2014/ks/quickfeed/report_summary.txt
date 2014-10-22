@@ -1,4 +1,4 @@
-Time Processed: 2014-10-20T18:38:05.887026
+Time Processed: 2014-10-21T20:03:07.430337
 
 ----------------------
 Source Data
@@ -25,10 +25,10 @@ source: 1
 precinct_split_polling_location: 6631
 ballot: 9
 locality: 105
-electoral_district: 6982
+electoral_district: 1
 election_administration: 106
 referendum: 1
-precinct_split_electoral_district: 151437
+precinct_split_electoral_district: 6861
 state: 1
 street_segment: 137872
 contest: 9
@@ -43,8 +43,8 @@ Reported Issues Count
 ----------------------
 
 street_segment_warnings: 25466
-errors: 1126
+errors: 1116
 warnings: 1
-duplicates: 11828
+duplicates: 0
 street_segment_duplicates: 110
 street_segment_errors: 56

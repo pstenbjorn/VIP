@@ -1,5 +1,4 @@
 base_element,type,problem_element,id,code
-electoral_district,error,name,320130928,missing_required
 street_segment,error,start_house_number,11001039154,type_error
 street_segment,error,start_house_number,1100704442,type_error
 street_segment,error,end_house_number,1100704442,type_error
@@ -1116,12 +1115,3 @@ polling_location,error,address_zip,60067202,missing_required
 polling_location,error,address_city,60067213,missing_required
 polling_location,error,address_line1,60067213,missing_required
 polling_location,error,address_zip,60067213,missing_required
-contest,error,electoral_district_id,2080000,orphaned_object
-contest,error,electoral_district_id,2080000,orphaned_object
-contest,error,electoral_district_id,2080000,orphaned_object
-contest,error,electoral_district_id,2080000,orphaned_object
-contest,error,electoral_district_id,2080000,orphaned_object
-contest,error,electoral_district_id,2080000,orphaned_object
-contest,error,electoral_district_id,2080000,orphaned_object
-contest,error,electoral_district_id,2080000,orphaned_object
-contest,error,electoral_district_id,2080000,orphaned_object
