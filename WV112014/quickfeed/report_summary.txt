@@ -1,4 +1,4 @@
-Time Processed: 2014-10-18T12:26:38.743165
+Time Processed: 2014-10-27T16:00:25.498433
 
 ----------------------
 Source Data
@@ -19,7 +19,7 @@ Element Counts
 ----------------------
 
 polling_location: 1816
-precinct_split: 1278
+precinct_split: 1816
 candidate: 342
 source: 1
 ballot: 150
@@ -33,8 +33,8 @@ street_segment: 714697
 contest: 150
 election_official: 55
 referendum: 0
-ballot_candidate: 150
-precinct: 1278
+ballot_candidate: 342
+precinct: 1816
 election: 1
 
 
@@ -43,7 +43,7 @@ Reported Issues Count
 ----------------------
 
 street_segment_warnings: 0
-errors: 253784
+errors: 250940
 warnings: 0
 duplicates: 0
 street_segment_duplicates: 268
