@@ -1,2 +1,2 @@
 "name","type","number","id"
-"WY statewide","","","5680000"
+"statewide","","","5680000"
