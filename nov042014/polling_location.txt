@@ -207,7 +207,7 @@
 "SAUNDERS MIDDLE SCHOOL","13557 Spriggs Rd","","","Manassas","VA","201123810","LECTURE HALL","6:00 AM - 7:00 PM","","80205"
 "ALBERT H HILL SCHOOL","3400 Patterson Ave","","","Richmond","VA","232212310","","6:00 AM - 7:00 PM","","80206"
 "BURKE COMMUNITY CHURCH","9900 Old Keene Mill Rd","","","Burke","VA","220153903","","6:00 AM - 7:00 PM","","80207"
-"LYON PARK COMMUNITY CENTER","414 N Fillmore St","","","Arlington","VA","222011622","","6:00 AM - 7:00 PM","","80208"
+"Garfield Park","925 N Garfield St","","","Arlington","VA","22201","Community Room","6:00 AM - 7:00 PM","","80208"
 "SPRING RUN ELEMENTARY SCHOOL","13901 Spring Run Rd","","","Midlothian","VA","231121548","","6:00 AM - 7:00 PM","","80209"
 "GOOD SHEPHERD CATHOLIC CHURCH","300 Smithfield Blvd","","","Smithfield","VA","23430","","6:00 AM - 7:00 PM","","80210"
 "ECHO LAKE ELEMENTARY SCHOOL","5200 Francistown Rd","","","Glen Allen","VA","230602841","Multipurpose Rm","6:00 AM - 7:00 PM","","80211"
