@@ -1339,7 +1339,7 @@
   <physical_address>
     <state>VA</state>
     <city>CHARLOTTESVILLE</city>
-    <line2>1600 5TH STREET</line2>
+    <line1>1600 5TH STREET</line1>
     <location_name>ALBEMARLE COUNTY VOTER REGISTRATION</location_name>
     <zip>22902</zip>
   </physical_address>
@@ -1828,7 +1828,7 @@
   <physical_address>
     <state>VA</state>
     <city>TAPPAHANNOCK</city>
-    <line2>PO BOX 1561</line2>
+    <line1>PO BOX 1561</line1>
     <location_name>ESSEX COUNTY VOTER REGISTRATION</location_name>
     <zip>22560</zip>
   </physical_address>
@@ -1956,7 +1956,7 @@
   <physical_address>
     <state>VA</state>
     <city>MATHEWS</city>
-    <line2>PO BOX 328</line2>
+    <line1>PO BOX 328</line1>
     <location_name>MATHEWS COUNTY</location_name>
     <zip>23109-0328</zip>
   </physical_address>
@@ -2693,7 +2693,7 @@
   <physical_address>
     <state>VA</state>
     <city>PULASKI</city>
-    <line2>87 COMMERCE STREET</line2>
+    <line1>87 COMMERCE STREET</line1>
     <location_name>PULASKI COUNTY GENERAL REGISTRAR</location_name>
     <zip>24301</zip>
   </physical_address>
@@ -2949,7 +2949,7 @@
   <physical_address>
     <state>VA</state>
     <city>SUSSEX</city>
-    <line2>PO BOX 1302</line2>
+    <line1>PO BOX 1302</line1>
     <location_name>SUSSEX COUNTY REGISTRAR</location_name>
     <zip>23884</zip>
   </physical_address>
@@ -3004,7 +3004,7 @@
   <physical_address>
     <state>VA</state>
     <city>COVINGTON</city>
-    <line2>515 E PINE ST</line2>
+    <line1>515 E PINE ST</line1>
     <location_name>COVINGTON CITY - PHYSICAL ADDRESS</location_name>
     <zip>24426</zip>
   </physical_address>
@@ -3021,8 +3021,8 @@
   <physical_address>
     <state>VA</state>
     <city>TAZEWELL</city>
-    <line3>3RD FLOOR ROOM 318</line3>
-    <line2>101 EAST MAIN STREET</line2>
+    <line2>3RD FLOOR ROOM 318</line2>
+    <line1>101 EAST MAIN STREET</line1>
     <location_name>TAZEWELL COUNTY REGISTRAR'S OFFICE - PHYSICAL ADDRESS</location_name>
     <zip>24651</zip>
   </physical_address>
@@ -3674,6 +3674,7 @@
   <rules_url>http://www.vote.virginia.gov</rules_url>
   <physical_address>
     <state>VA</state>
+	<city>Staunton</city>
     <line2>116 W. BEVERLEY ST.</line2>
     <line1>CITY HALL, FIRST FLOOR</line1>
     <location_name>STAUNTON CITY - PHYSICAL ADDRESS</location_name>
