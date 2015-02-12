@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Electoral district set to string for ocdid sample -->
-<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="3.1" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="3.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:element name="vip_object">
     <xs:complexType>
       <xs:choice maxOccurs="unbounded">

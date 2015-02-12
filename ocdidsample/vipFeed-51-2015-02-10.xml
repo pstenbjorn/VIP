@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<vip_object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/pstenbjorn/VIP/blob/master/ocdidsample/vip_spec_v3.1.xsd" schemaVersion="3.1">
+<vip_object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/pstenbjorn/VIP/blob/master/ocdidsample/vip_spec_v3.1.xsd" schemaVersion="3.0">
 <source id="1">
   <name>Department of Elections, Commonwealth of Virginia</name>
   <vip_id>51</vip_id>
